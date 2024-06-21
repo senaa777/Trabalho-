@@ -1,0 +1,13 @@
+QUESTÕES 
+Diferença entre `<b>` e `<p>`
+- `<b>`: É usado para aplicar negrito ao texto. Seu uso é meramente estilístico e não adiciona significado adicional ao conteúdo.
+- `<p>`: É usado para definir um parágrafo. É semântica, indicando que o texto é um bloco de parágrafo.
+
+
+Erro na linha de código: `<p<center> texto </p<center>`
+O erro nesta linha de código está na sintaxe incorreta. A tag `<p>` está combinada incorretamente com o atributo `center`. A forma correta para centralizar texto é usar CSS ou a tag `<center>`, que é obsoleta.
+
+
+
+Função da tag `<a href>`
+A tag `<a>` com o atributo `href` é usada para criar um hiperlink. O atributo `href` especifica o destino do link. Quando o link é clicado, o navegador navega para o endereço especificado no atributo `href`.
